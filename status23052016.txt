@@ -1,0 +1,9 @@
+
+Today:
+Had a discussion with Koushik for scope of the task 6443 and 6444.
+Worked on Task 4835:Time to Fill for Filled/Partially Filled Requisitions.
+Worked on Coyote tasks for KIUC.
+Tomorrow:
+Sprint task and bug fix.
+Blocks:
+None
